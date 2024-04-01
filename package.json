@@ -1,0 +1,14 @@
+{
+  "name": "searching_app_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arihant Singh Rana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
